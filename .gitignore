@@ -1,0 +1,2 @@
+# Ignore the VS Code workspace/settings folder and its contents
+.vscode/settings.json
