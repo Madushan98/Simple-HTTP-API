@@ -1,0 +1,2 @@
+# Ensure the VS Code workspace/settings folder and its contents are tracked
+.vscode/settings.json
